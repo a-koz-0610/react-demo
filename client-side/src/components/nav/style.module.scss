@@ -1,0 +1,14 @@
+
+.link__container a{
+    background-color: #AAA;
+    border-radius: 8px;
+    color: #FFF;
+    margin: 10px;
+    padding: .5rem;
+    text-decoration: none;
+}
+
+.link__container a:hover{
+    background-color: #444;
+    transition: .5s;
+}

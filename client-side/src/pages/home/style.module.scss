@@ -1,0 +1,10 @@
+.home__container{
+    background-color: #DDD;
+    height: 1000px;
+    margin: 2rem auto;
+    width: 1000px;
+
+    & h1{
+        padding: 1rem;
+    }
+}
