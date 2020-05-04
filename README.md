@@ -27,4 +27,12 @@
 
 We will be working in `react-demo/client-side/src/pages/campuses/index.js` and `react-demo/client-side/src/pages/star-wars-people/index.js` together
 
+## Installation Video Link
+(Note: It would be as helpful as possible for us to get started on the code and have the project installed prior to the workshop... if the Java/Eclipse backend does not work or is not something you have a history of working with no problem there as I have built in a reference to the Star Wars API and you would only need to worry about installing the Client side code in that case)
 [Want to see a video for installation instructions? Click Here!](https://youtu.be/CiGSn-BsFGY)
+
+## Reference Links for before/after the workshop
+- [React](https://reactjs.org/)
+- [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [CSS Modules](https://programmingwithmosh.com/react/css-modules-react/)
