@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Home from './pages/home';
-import Campuses from './pages/campuses';
-import StarWarsPeople from './pages/star-wars-people';
+import HomeScreen from './pages/home-screen';
+import CampusesScreen from './pages/campuses-screen';
+import StarWarsPeopleScreen from './pages/star-wars-people-screen';
 
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import Nav from './components/nav';
@@ -12,9 +12,9 @@ function App() {
 
   const PageSwitch = () => (
     <Switch>
-      <Route exact path='/' component={Home} />
-      <Route exact path='/campuses' component={Campuses} />
-      <Route exact path='/star-wars-people' component={StarWarsPeople} />
+      <Route exact path='/' component={HomeScreen} />
+      <Route exact path='/campuses' component={CampusesScreen} />
+      <Route exact path='/star-wars-people' component={StarWarsPeopleScreen} />
     </Switch>
   )
 

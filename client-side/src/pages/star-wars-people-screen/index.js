@@ -1,9 +1,9 @@
 import React from 'react';
 
-const StarWarsPeople = () => {
+const StarWarsPeopleScreen = () => {
     return (
         <h1>Star Wars People</h1>
     )
 }
 
-export default StarWarsPeople;
+export default StarWarsPeopleScreen;

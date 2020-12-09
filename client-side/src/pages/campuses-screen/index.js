@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Campuses = () => {
+const CampusesScreen = () => {
     return (
         <h1>Campuses</h1>
     )
 }
 
-export default Campuses;
+export default CampusesScreen;
